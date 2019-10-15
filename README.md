@@ -18,7 +18,7 @@ Goodman and Flaxman. [European Union regulations on algorithmic decision-making 
  
 * Evaluation:
     - Completeness 
-    - Implementation invariance  
+    - Implementation invariance: the attributions are always identical for two functionally equivalent networks (their outputs are equal for all inputs, despite having very different implementations). Sundararajan et al. [Axiomatic Attribution for Deep Networks.](https://arxiv.org/abs/1703.01365). In *ICML 2017*. 
     - Sensitivity 
 
 Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https://www.aclweb.org/anthology/D18-1407/). In *EMNLP 2018*.
