@@ -16,10 +16,10 @@ Goodman and Flaxman. [European Union regulations on algorithmic decision-making 
  
  > Evaluating the reliability of saliency methods is complicated by a lack of ground truth, as ground truth would depend upon full transparency into how a model arrives at a decision---the very problem we are trying to solve for in the first place.
  
- * Evaluation:
-  - Completeness 
-  - Implementation invariance 
-  - Sensitivity 
+* Evaluation:
+    - Completeness 
+    - Implementation invariance  
+    - Sensitivity 
 
 Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https://www.aclweb.org/anthology/D18-1407/). In *EMNLP 2018*.
 
