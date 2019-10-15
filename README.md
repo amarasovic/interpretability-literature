@@ -12,6 +12,15 @@ Goodman and Flaxman. [European Union regulations on algorithmic decision-making 
 
 ## Failures of explanatory methods
 
+ Kindermans et al. [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867). In *ICLR 2018*.
+ 
+ > Evaluating the reliability of saliency methods is complicated by a lack of ground truth, as ground truth would depend upon full transparency into how a model arrives at a decision---the very problem we are trying to solve for in the first place.
+ 
+ * Evaluation:
+  * Completeness 
+  * Implementation invariance 
+  * Sensitivity 
+
 Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https://www.aclweb.org/anthology/D18-1407/). In *EMNLP 2018*.
 
  * Input reduction iteratively removes the least important word from the input.    
@@ -20,10 +29,7 @@ Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https:
  Das et al. [Human Attention in Visual Question Answering: Do Humans and Deep Networks look at the same regions?](https://www.aclweb.org/anthology/D16-1092/). In *EMNLP 2016*.
  
  * Current attention models in VQA do not seem to be looking at the same regions as humans.
- 
- Kindermans et al. [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867). In *ICLR 2018*.
- 
- > Evaluating the reliability of saliency methods is complicated by a lack of ground truth, as ground truth would depend upon full transparency into how a model arrives at a decision---the very problem we are trying to solve for in the first place.
+
 
 ## Evaluation of explanatory methods
 
