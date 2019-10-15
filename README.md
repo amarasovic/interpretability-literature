@@ -19,11 +19,9 @@ Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https:
 
 Poerner et al. [Evaluating neural network explanation methods using hybrid documents and morphosyntactic agreement](https://www.aclweb.org/anthology/P18-1032/). In *ACL 2018*.
 
-  * Important characterization of explanation: 
-  
-  > A good explanation method should not reflect what humans attend to, but what task methods attend to.
-
-  * Interpretability differs between *small contexts* NLP tasks and *large context* tasks. 
+  * Important characterization of explanation:   
+  > A good explanation method should not reflect what humans attend to, but what task methods attend to.  
+  * Interpretability differs between *small contexts* NLP tasks and *large context* tasks.      
   
 ## Self-explanatory models
 
