@@ -8,7 +8,7 @@ Molnar. [Interpretable machine learning. A Guide for Making Black Box Models Exp
 
 Zachary C. Lipton. [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490). In *WHI 2016*.
 
-Goodman and Flaxman. [European Union regulations on algorithmic decision-making and a "right to explanation"]. In *WHI 2016*.
+Goodman and Flaxman. [European Union regulations on algorithmic decision-making and a "right to explanation"](https://arxiv.org/abs/1606.08813). In *WHI 2016*.
 
 ## Failures of explanatory methods
 
