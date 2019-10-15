@@ -12,6 +12,11 @@ Goodman and Flaxman. [European Union regulations on algorithmic decision-making 
 
 ## Evaluation of post-hoc explanatory methods
 
+Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https://www.aclweb.org/anthology/D18-1407/). In *EMNLP 2018*.
+
+ * Input reduction iteratively removes the least important word from the input.    
+ * The remaining words appear nonsensical to humans and are not the ones determined as important by interpretation method. 
+
 Poerner et al. [Evaluating neural network explanation methods using hybrid documents and morphosyntactic agreement](https://www.aclweb.org/anthology/P18-1032/). In *ACL 2018*.
 
   * Important characterization of explanation: 
