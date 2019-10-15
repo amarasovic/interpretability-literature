@@ -15,6 +15,8 @@ Goodman and Flaxman. [European Union regulations on algorithmic decision-making 
  Kindermans et al. [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867). In *ICLR 2018*.
  
  > Evaluating the reliability of saliency methods is complicated by a lack of ground truth, as ground truth would depend upon full transparency into how a model arrives at a decision---the very problem we are trying to solve for in the first place.
+ 
+ *  A new evaluation criterion, *input invariance*, requires that the saliency method mirrors the sensitivity of model with respect to transformations of the input. Input transformations that do not change network's prediction, should not change the attribution either. 
 
 Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https://www.aclweb.org/anthology/D18-1407/). In *EMNLP 2018*.
 
