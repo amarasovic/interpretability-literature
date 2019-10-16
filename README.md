@@ -19,7 +19,7 @@ Yang et al. [Evaluating Explanation Without Ground Truth in Interpretable Machin
 
 Rudin. [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x.epdf?author_access_token=SU_TpOb-H5d3uy5KF-dedtRgN0jAjWel9jnR3ZoTv0M3t8uDwhDckroSbUOOygdba5KNHQMo_Ji2D1_SdDjVr6hjgxJXc-7jt5FQZuPTQKIAkZsBoTI4uqjwnzbltD01Z8QwhwKsbvwh-z1xL8bAcg%3D%3D). In *Nature 2019*.
 
-Poursabzi-Sangdeh et al. [Manipulating and Measuring Model Interpretability]. arxiv 2018. 
+Poursabzi-Sangdeh et al. [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810). arxiv 2018. 
 
 * This paper found no significant difference in multiple measures of trust between when manipulating interpretability.
 * Increased transparency hampered people's ability to detect when a model had made a sizeable mistake. 
@@ -111,6 +111,8 @@ Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https:
 ## Self-explanatory models / Model-based intepretability 
 
 Alvarez-Melis and Jaakkola. [Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/abs/1806.07538). In *NeurIPS 2018*. 
+
+Vedantam et al. [Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering](https://arxiv.org/abs/1902.07864). In *ICML 2019*.
 
 Yang et al. [Commonsense Justification for Action Explanation](https://www.aclweb.org/anthology/D18-1283/). In *EMNLP 2018*. 
 
