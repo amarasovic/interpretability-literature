@@ -32,6 +32,9 @@ Jain and Wallace. [Attention is not Explanation](https://www.aclweb.org/antholog
 * Attention is not strongly correlated with other, well-grounded feature-importance metrics.  
 * Alternative distributions exist for which the model outputs near-identical prediction scores. 
 
+
+Adebayo et al. [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292). In *NeurIPS 2018*.
+
 Kindermans et al. [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867). In *ICLR 2018*.
  
  > Evaluating the reliability of saliency methods is complicated by a lack of ground truth, as ground truth would depend upon full transparency into how a model arrives at a decision---the very problem we are trying to solve for in the first place.
