@@ -18,7 +18,7 @@ Goodman and Flaxman. [European Union regulations on algorithmic decision-making 
 
 Rudin. [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x.epdf?author_access_token=SU_TpOb-H5d3uy5KF-dedtRgN0jAjWel9jnR3ZoTv0M3t8uDwhDckroSbUOOygdba5KNHQMo_Ji2D1_SdDjVr6hjgxJXc-7jt5FQZuPTQKIAkZsBoTI4uqjwnzbltD01Z8QwhwKsbvwh-z1xL8bAcg%3D%3D). In *Nature 2019.
 
-Wiegreffe and Pinter. [Attention is not not Explanation]. In *EMNLP 2019*.
+Wiegreffe and Pinter. [Attention is not not Explanation](https://arxiv.org/abs/1908.04626). In *EMNLP 2019*.
 
 * Deteching the attention scores obtained by parts of the model degredes the model itself. A reliable adversary must also be trained. 
 * Attention scores are used as poviding an explanation; not the explanation.
