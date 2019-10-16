@@ -6,6 +6,8 @@ Miller. [Explanation in Artificial Intelligence: Insights from the Social Scienc
 
 Molnar. [Interpretable machine learning. A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/). 2019.
 
+Murdoch et al. [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/abs/1901.04592). arxiv 2019. 
+
 ## Perspectives 
 
 Rudin. [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x.epdf?author_access_token=SU_TpOb-H5d3uy5KF-dedtRgN0jAjWel9jnR3ZoTv0M3t8uDwhDckroSbUOOygdba5KNHQMo_Ji2D1_SdDjVr6hjgxJXc-7jt5FQZuPTQKIAkZsBoTI4uqjwnzbltD01Z8QwhwKsbvwh-z1xL8bAcg%3D%3D). In *Nature 2019*.
@@ -17,6 +19,14 @@ Lipton. [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
 * The umbrella term "Explainable AI" encompasses at least three distinct notions : **transparency**, **explainability**, and **interpretability**.
 
 Goodman and Flaxman. [European Union regulations on algorithmic decision-making and a "right to explanation"](https://arxiv.org/abs/1606.08813). In *WHI 2016*.
+
+## Impact of explanations  
+
+Strout et al. [Do Human Rationales Improve Machine Explanations?](https://www.aclweb.org/anthology/W19-4807/). In *ACL 2019*. 
+
+* This paper shows that learning with rationales can also improve the quality of the machine's explanations as evaluated by human judges.
+
+Ray et al. [Can You Explain That? Lucid Explanations Help Human-AI Collaborative Image Retrieval](https://arxiv.org/abs/1904.03285). In *AAAI 2019*.
 
 ## Evaluation critera and pitfalls of explanatory methods
 
@@ -47,6 +57,8 @@ Aïvodji et al. [Fairwashing: the risk of rationalization](https://arxiv.org/abs
 
 * **Fairwashing** is prooting the false perception that a machine learning model respects some ethical values. 
 * This paper shows that tt is possible to forge a fairer explanation from a truly unfair black box trough a process that the authors coin as **rationalization**.
+
+Mittelstadt et al. [Explaining Explanations in AI]. In *FAT 2019*.
 
 Adebayo et al. [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292). In *NeurIPS 2018*.
 
@@ -81,10 +93,13 @@ Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https:
  
  * Current attention models in VQA do not seem to be looking at the same regions as humans.     
 
-## Self-explanatory models
+## Self-explanatory models / Model-based intepretability 
 
 
-### Textual explanations generation 
+## Textual explanations generation 
+
+Ehsan et al. [Computer Science > Artificial Intelligence
+Automated Rationale Generation: A Technique for Explainable AI and its Effects on Human Perceptions](https://arxiv.org/abs/1901.03729). in *ACM IUI 2019*.
 
 Kim et al. [Textual Explanations for Self-Driving Vehicles](https://arxiv.org/abs/1807.11546). In *ECCV 2018*.
 
