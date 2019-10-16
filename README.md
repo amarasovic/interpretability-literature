@@ -41,6 +41,8 @@ Strout et al. [Do Human Rationales Improve Machine Explanations?](https://www.ac
 
 Ray et al. [Can You Explain That? Lucid Explanations Help Human-AI Collaborative Image Retrieval](https://arxiv.org/abs/1904.03285). In *AAAI 2019*.
 
+Selvaraju et al. [Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded](https://arxiv.org/pdf/1902.03751.pdf). In *ICCV 2019*.
+
 ## Evaluation critera and pitfalls of explanatory methods
 
 Heo et al. [Fooling Neural Network Interpretations via Adversarial Model Manipulation](https://arxiv.org/abs/1902.02041). In *NeurIPS 2019*. 
@@ -108,15 +110,27 @@ Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https:
 
 ## Self-explanatory models / Model-based intepretability 
 
+Alvarez-Melis and Jaakkola. [Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/abs/1806.07538). In *NeurIPS 2018*. 
 
-## Textual explanations generation 
+Yang et al. [Commonsense Justification for Action Explanation](https://www.aclweb.org/anthology/D18-1283/). In *EMNLP 2018*. 
 
-Ehsan et al. [Computer Science > Artificial Intelligence
-Automated Rationale Generation: A Technique for Explainable AI and its Effects on Human Perceptions](https://arxiv.org/abs/1901.03729). in *ACM IUI 2019*.
+### Textual explanation generation 
+
+Ehsan et al. [Automated Rationale Generation: A Technique for Explainable AI and its Effects on Human Perceptions](https://arxiv.org/abs/1901.03729). in *ACM IUI 2019*.
 
 Kim et al. [Textual Explanations for Self-Driving Vehicles](https://arxiv.org/abs/1807.11546). In *ECCV 2018*.
 
+Hendricks et al. [Grounding Visual Explanations](https://arxiv.org/abs/1807.09685). In *ECCV 2018*.
+
 Hendricks et al. [Generating Counterfactual Explanations with Natural Language](https://arxiv.org/abs/1806.09809). In *WHI 2018*. 
+
+Hendricks et al. [Generating Visual Explanations](https://arxiv.org/abs/1603.08507). In *ECCV 2016*. 
+
+### Multimodal explanation generation 
+
+Wu and Mooney. [Faithful Multimodal Explanation for Visual Question Answering](https://www.aclweb.org/anthology/W19-4812/). In *ACL 2019*. 
+
+Park et al. [Multimodal Explanations: Justifying Decisions and Pointing to the Evidence](https://arxiv.org/abs/1802.08129). In *CVPR 2018*.
 
 ## Lectures 
 
