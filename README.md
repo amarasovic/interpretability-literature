@@ -18,7 +18,7 @@ Goodman and Flaxman. [European Union regulations on algorithmic decision-making 
 
 ## Evaluation critera and pitfalls of explanatory methods
 
-Heo et al. [Fooling Neural Network Interpretations via Adversarial Model Manipulation](https://arxiv.org/abs/1902.02041). In *NeurIPS 2019. 
+Heo et al. [Fooling Neural Network Interpretations via Adversarial Model Manipulation](https://arxiv.org/abs/1902.02041). In *NeurIPS 2019*. 
 
 * Saliency interpretation methods can be fooled via adversarial model manipulation.
 
@@ -37,13 +37,16 @@ Jain and Wallace. [Attention is not Explanation](https://www.aclweb.org/antholog
 * Attention is not strongly correlated with other, well-grounded feature-importance metrics.  
 * Alternative distributions exist for which the model outputs near-identical prediction scores. 
 
-
 Aïvodji et al. [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749). In *ICML 2019*. 
 
 * **Fairwashing** is prooting the false perception that a machine learning model respects some ethical values. 
 * This paper shows that tt is possible to forge a fairer explanation from a truly unfair black box trough a process that the authors coin as **rationalization**.
 
 Adebayo et al. [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292). In *NeurIPS 2018*.
+
+Chandrasekaran et al. [Do explanations make VQA models more predictable to a human?](https://www.aclweb.org/anthology/D18-1128/). In *EMNLP 2018*.
+
+* This paper measures how well a human "understands" a VQA model. The paper shows that people get better at predicting VQA model's behaviour using a few "training" examples, but that exisiting explanation modalities do not help make its failures or responses more predictable. 
 
 Kindermans et al. [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867). In *ICLR 2018*.
  
