@@ -10,10 +10,7 @@ Doshi-Velez and Kim. [Towards A Rigorous Science of Interpretable Machine Learni
 
 Lipton. [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490). In *WHI 2016*.
 
-* The umbrella term "Explainable AI" encompasses at least three distinct notions : 
-    * transparency 
-    * explainability
-    * interpretability 
+* The umbrella term "Explainable AI" encompasses at least three distinct notions : **transparency**, **explainability**, and **interpretability**.
 
 Goodman and Flaxman. [European Union regulations on algorithmic decision-making and a "right to explanation"](https://arxiv.org/abs/1606.08813). In *WHI 2016*.
 
