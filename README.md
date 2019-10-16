@@ -37,7 +37,7 @@ Lipton. [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
 
 Goodman and Flaxman. [European Union regulations on algorithmic decision-making and a "right to explanation"](https://arxiv.org/abs/1606.08813). In *WHI 2016*.
 
-## Impact of explanations  
+## Benefits of learning with explanations 
 
 Strout et al. [Do Human Rationales Improve Machine Explanations?](https://www.aclweb.org/anthology/W19-4807/). In *ACL 2019*. 
 
