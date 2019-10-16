@@ -10,6 +10,8 @@ Murdoch et al. [Interpretable machine learning: definitions, methods, and applic
 
 ## Perspectives 
 
+Kleinberg and Mullainathan. [Simplicity Creates Inequity: Implications for Fairness, Stereotypes, and Interpretability](https://arxiv.org/abs/1809.04578). [video](https://www.youtube.com/watch?v=LsracoT6zvI). In *ACM EC 2019*. 
+
 Lage et al. [An Evaluation of the Human-Interpretability of Explanation](https://arxiv.org/abs/1902.00006). arxiv 2019.
 
 Yang et al. [Evaluating Explanation Without Ground Truth in Interpretable Machine Learning](https://arxiv.org/abs/1907.06831). arxiv 2019. 
