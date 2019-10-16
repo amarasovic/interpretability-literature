@@ -10,7 +10,20 @@ Murdoch et al. [Interpretable machine learning: definitions, methods, and applic
 
 ## Perspectives 
 
+Lage et al. [An Evaluation of the Human-Interpretability of Explanation](https://arxiv.org/abs/1902.00006). arxiv 2019.
+
+Yang et al. [Evaluating Explanation Without Ground Truth in Interpretable Machine Learning](https://arxiv.org/abs/1907.06831). arxiv 2019. 
+
+* This paper defines the problem od evaluating explanations and systematically reviews the existing efforts.
+* The authors summarize three general aspects of explanation: **predictability**, **fidelity**, and **persuasibility**.
+
 Rudin. [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x.epdf?author_access_token=SU_TpOb-H5d3uy5KF-dedtRgN0jAjWel9jnR3ZoTv0M3t8uDwhDckroSbUOOygdba5KNHQMo_Ji2D1_SdDjVr6hjgxJXc-7jt5FQZuPTQKIAkZsBoTI4uqjwnzbltD01Z8QwhwKsbvwh-z1xL8bAcg%3D%3D). In *Nature 2019*.
+
+Poursabzi-Sangdeh et al. [Manipulating and Measuring Model Interpretability]. arxiv 2018. 
+
+* This paper found no significant difference in multiple measures of trust between when manipulating interpretability.
+* Increased transparency hampered people's ability to detect when a model had made a sizeable mistake. 
+> Building interpretable machine learning models is not a purely computational model [...] what is or is not "interpretable" is defined by people, not algorithms.
 
 Doshi-Velez and Kim. [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608). arxiv 2017. 
 
