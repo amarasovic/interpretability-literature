@@ -20,7 +20,11 @@ Goodman and Flaxman. [European Union regulations on algorithmic decision-making 
 
 Heo et al. [Fooling Neural Network Interpretations via Adversarial Model Manipulation](https://arxiv.org/abs/1902.02041). In *NeurIPS 2019*. 
 
-* Saliency interpretation methods can be fooled via adversarial model manipulation.
+* Saliency interpretation methods can be fooled via adversarial model manipulation---a model finetuning step that aims to radically alter the explanation without hurting the accuracy of the original model. 
+
+* Similar work: 
+
+    * Zheng et al. [Analyzing the Interpretability Robustness of Self-Explaining Models](https://arxiv.org/abs/1905.12429). In ICML 2019 Security and Privacy of Machine Learning Workshop. 
 
 Wiegreffe and Pinter. [Attention is not not Explanation](https://arxiv.org/abs/1908.04626). In *EMNLP 2019*.
 
