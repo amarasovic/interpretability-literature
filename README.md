@@ -6,9 +6,7 @@ Molnar. [Interpretable machine learning. A Guide for Making Black Box Models Exp
 
 ## Perspectives 
 
-Doshi-Velez and Kim. [Towards A Rigorous Science of Interpretable Machine Learning]. arxiv 2017. 
-
-
+Doshi-Velez and Kim. [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608). arxiv 2017. 
 
 Lipton. [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490). In *WHI 2016*.
 
@@ -51,7 +49,7 @@ Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https:
   > A good explanation method should not reflect what humans attend to, but what task methods attend to.  
   * Interpretability differs between *small contexts* NLP tasks and *large context* tasks. 
   
- Sundararajan et al. [Axiomatic Attribution for Deep Networks.](https://arxiv.org/abs/1703.01365). In *ICML 2017*.  
+ Sundararajan et al. [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365). In *ICML 2017*.  
  
 * **Implementation invariance**: the attributions should be identical for two functionally equivalent networks (their outputs are equal for all inputs, despite having very different implementations). 
 
