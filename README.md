@@ -21,6 +21,8 @@ Wiegreffe and Pinter. [Attention is not not Explanation]. In *EMNLP 2019*.
 * Deteching the attention scores obtained by parts of the model degredes the model itself. A reliable adversary must also be trained. 
 * Attention scores are used as poviding an explanation; not the explanation.
 
+Serrano and Smith. [Is Attention Interpretable?](https://www.aclweb.org/anthology/P19-1282/). In *ACL 2019*.
+
 Jain and Wallace. [Attention is not Explanation](https://www.aclweb.org/anthology/N19-1357/). In *NAACL 2019*.
 
 > Attention provides an important way to explain the workings of neural models. 
@@ -28,6 +30,11 @@ Jain and Wallace. [Attention is not Explanation](https://www.aclweb.org/antholog
 
 * Attention is not strongly correlated with other, well-grounded feature-importance metrics.  
 * Alternative distributions exist for which the model outputs near-identical prediction scores. 
+
+
+Aïvodji et al. [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749). In *ICML 2019*. 
+
+* **Fairwashing** is prooting the false perception that a machine learning model respects some ethical values. 
 
 
 Adebayo et al. [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292). In *NeurIPS 2018*.
