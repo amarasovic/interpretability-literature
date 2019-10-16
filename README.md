@@ -6,6 +6,8 @@ Molnar. [Interpretable machine learning. A Guide for Making Black Box Models Exp
 
 ## Perspectives 
 
+Rudin. [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x.epdf?author_access_token=SU_TpOb-H5d3uy5KF-dedtRgN0jAjWel9jnR3ZoTv0M3t8uDwhDckroSbUOOygdba5KNHQMo_Ji2D1_SdDjVr6hjgxJXc-7jt5FQZuPTQKIAkZsBoTI4uqjwnzbltD01Z8QwhwKsbvwh-z1xL8bAcg%3D%3D). In *Nature 2019*.
+
 Doshi-Velez and Kim. [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608). arxiv 2017. 
 
 Lipton. [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490). In *WHI 2016*.
@@ -16,7 +18,9 @@ Goodman and Flaxman. [European Union regulations on algorithmic decision-making 
 
 ## Evaluation critera and pitfalls of explanatory methods
 
-Rudin. [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x.epdf?author_access_token=SU_TpOb-H5d3uy5KF-dedtRgN0jAjWel9jnR3ZoTv0M3t8uDwhDckroSbUOOygdba5KNHQMo_Ji2D1_SdDjVr6hjgxJXc-7jt5FQZuPTQKIAkZsBoTI4uqjwnzbltD01Z8QwhwKsbvwh-z1xL8bAcg%3D%3D). In *Nature 2019*.
+Heo et al. [Fooling Neural Network Interpretations via Adversarial Model Manipulation](https://arxiv.org/abs/1902.02041). In *NeurIPS 2019. 
+
+* Saliency interpretation methods can be fooled via adversarial model manipulation.
 
 Wiegreffe and Pinter. [Attention is not not Explanation](https://arxiv.org/abs/1908.04626). In *EMNLP 2019*.
 
@@ -37,7 +41,7 @@ Jain and Wallace. [Attention is not Explanation](https://www.aclweb.org/antholog
 Aïvodji et al. [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749). In *ICML 2019*. 
 
 * **Fairwashing** is prooting the false perception that a machine learning model respects some ethical values. 
-
+* This paper shows that tt is possible to forge a fairer explanation from a truly unfair black box trough a process that the authors coin as **rationalization**.
 
 Adebayo et al. [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292). In *NeurIPS 2018*.
 
