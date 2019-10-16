@@ -2,6 +2,8 @@
 
 ## Overviews 
 
+Miller. [Explanation in Artificial Intelligence: Insights from the Social Sciences](https://arxiv.org/abs/1706.07269). In *AIJ 2018*.
+
 Molnar. [Interpretable machine learning. A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/). 2019.
 
 ## Perspectives 
@@ -86,6 +88,7 @@ Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https:
 
 Kim et al. [Textual Explanations for Self-Driving Vehicles](https://arxiv.org/abs/1807.11546). In *ECCV 2018*.
 
+Hendricks et al. [Generating Counterfactual Explanations with Natural Language](https://arxiv.org/abs/1806.09809). In *WHI 2018*. 
 
 ## Lectures 
 
