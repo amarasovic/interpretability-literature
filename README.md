@@ -49,6 +49,8 @@ Selvaraju et al. [Taking a HINT: Leveraging Explanations to Make Vision and Lang
 
 ## Evaluation critera and pitfalls of explanatory methods
 
+Camburu et al. [Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations](https://arxiv.org/abs/1910.03065). In NeurIPS 2019 Workshop on Safety and Robustness in Decision Making.
+
 Heo et al. [Fooling Neural Network Interpretations via Adversarial Model Manipulation](https://arxiv.org/abs/1902.02041). In *NeurIPS 2019*. 
 
 * Saliency interpretation methods can be fooled via adversarial model manipulation---a model finetuning step that aims to radically alter the explanation without hurting the accuracy of the original model. 
