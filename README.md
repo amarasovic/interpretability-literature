@@ -2,12 +2,13 @@
 
 ## Overviews 
 
+Molnar. [Interpretable machine learning. A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/). 2019.
+
 Miller. [Explanation in Artificial Intelligence: Insights from the Social Sciences](https://arxiv.org/abs/1706.07269). In *AIJ 2018*.
 
-* "Summary" by Mittelstadt et al. [Explaining Explanations in AI](https://arxiv.org/abs/1811.01439). In **FAT 2019*.
+* Section 2.6 in Molner discusses Miller's work.
+* Very related; Mittelstadt et al. [Explaining Explanations in AI](https://arxiv.org/abs/1811.01439). In **FAT 2019*.
 
-
-Molnar. [Interpretable machine learning. A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/). 2019.
 
 Murdoch et al. [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/abs/1901.04592). arxiv 2019. 
 
