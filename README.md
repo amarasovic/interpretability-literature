@@ -3,6 +3,7 @@
 ## Overviews 
 
 Miller. [Explanation in Artificial Intelligence: Insights from the Social Sciences](https://arxiv.org/abs/1706.07269). In *AIJ 2018*.
+
     * This paper summarizes Miller's work: Mittelstadt et al. [Explaining Explanations in AI](https://arxiv.org/abs/1811.01439). In **FAT 2019*.
 
 
