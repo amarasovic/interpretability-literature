@@ -25,6 +25,8 @@ Rudin. [Stop explaining black box machine learning models for high stakes decisi
 
 Mittelstadt et al. [Explaining Explanations in AI](https://arxiv.org/abs/1811.01439). In **FAT 2019*.
 
+Tomsett et al. [Interpretable to Whom? A Role-based Model for Analyzing Interpretable Machine Learning Systems](https://arxiv.org/abs/1806.07552). In *WHI 2018*.
+
 Poursabzi-Sangdeh et al. [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810). arxiv 2018. 
 
 * This paper found no significant difference in multiple measures of trust between when manipulating interpretability.
@@ -95,6 +97,8 @@ Chandrasekaran et al. [Do explanations make VQA models more predictable to a hum
 
 * This paper measures how well a human "understands" a VQA model. The paper shows that people get better at predicting VQA model's behaviour using a few "training" examples, but that exisiting explanation modalities do not help make its failures or responses more predictable. 
 
+Jiang et al. [To Trust Or Not To Trust A Classifier](https://arxiv.org/abs/1805.11783). In *NeurIPS 2018*.
+
 Kindermans et al. [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867). In *ICLR 2018*.
  
  > Evaluating the reliability of saliency methods is complicated by a lack of ground truth, as ground truth would depend upon full transparency into how a model arrives at a decision---the very problem we are trying to solve for in the first place.
@@ -157,3 +161,12 @@ Park et al. [Multimodal Explanations: Justifying Decisions and Pointing to the E
 ## Tutorials 
 
 [Introduction to Interpretable Machine Learning by Been Kim @ MLSS 2018](https://beenkim.github.io/slides/DLSS2018Vector_Been.pdf)
+
+
+## GDPR 
+
+[How will the GDPR impact machine learning? by Andrew Burt](https://www.oreilly.com/radar/how-will-the-gdpr-impact-machine-learning/)
+
+Wachter et al. [Why a Right to Explanation of Automated Decision-Making Does Not Exist in the General Data Protection Regulation](https://academic.oup.com/idpl/article/7/2/76/3860948). In International Data Privacy Law 2017.
+
+Edwards and Veale. [Slave to the Algorithm? Why a 'Right to an Explanation' Is Probably Not the Remedy You Are Looking For](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2972855). In 16 Duke Law & Technology Review 18 (2017).
