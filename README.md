@@ -3,6 +3,8 @@
 ## Overviews 
 
 Miller. [Explanation in Artificial Intelligence: Insights from the Social Sciences](https://arxiv.org/abs/1706.07269). In *AIJ 2018*.
+    * This paper summarizes Miller's work: Mittelstadt et al. [Explaining Explanations in AI](https://arxiv.org/abs/1811.01439). In **FAT 2019*.
+
 
 Molnar. [Interpretable machine learning. A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/). 2019.
 
@@ -22,8 +24,6 @@ Yang et al. [Evaluating Explanation Without Ground Truth in Interpretable Machin
 * The authors summarize three general aspects of explanation: **predictability**, **fidelity**, and **persuasibility**.
 
 Rudin. [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x.epdf?author_access_token=SU_TpOb-H5d3uy5KF-dedtRgN0jAjWel9jnR3ZoTv0M3t8uDwhDckroSbUOOygdba5KNHQMo_Ji2D1_SdDjVr6hjgxJXc-7jt5FQZuPTQKIAkZsBoTI4uqjwnzbltD01Z8QwhwKsbvwh-z1xL8bAcg%3D%3D). In *Nature 2019*.
-
-Mittelstadt et al. [Explaining Explanations in AI](https://arxiv.org/abs/1811.01439). In **FAT 2019*.
 
 Tomsett et al. [Interpretable to Whom? A Role-based Model for Analyzing Interpretable Machine Learning Systems](https://arxiv.org/abs/1806.07552). In *WHI 2018*.
 
