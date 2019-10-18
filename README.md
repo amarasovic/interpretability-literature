@@ -8,6 +8,8 @@ Molnar. [Interpretable machine learning. A Guide for Making Black Box Models Exp
 
 Murdoch et al. [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/abs/1901.04592). arxiv 2019. 
 
+Guidotti et al. [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/abs/1802.01933). arxiv 2018.
+
 ## Perspectives 
 
 Kleinberg and Mullainathan. [Simplicity Creates Inequity: Implications for Fairness, Stereotypes, and Interpretability](https://arxiv.org/abs/1809.04578). [video](https://www.youtube.com/watch?v=LsracoT6zvI). In *ACM EC 2019*. 
@@ -122,11 +124,13 @@ Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https:
 
 ## Self-explanatory models / Model-based intepretability 
 
-Alvarez-Melis and Jaakkola. [Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/abs/1806.07538). In *NeurIPS 2018*. 
-
 Vedantam et al. [Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering](https://arxiv.org/abs/1902.07864). In *ICML 2019*.
 
-Yang et al. [Commonsense Justification for Action Explanation](https://www.aclweb.org/anthology/D18-1283/). In *EMNLP 2018*. 
+Alvarez-Melis and Jaakkola. [Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/abs/1806.07538). In *NeurIPS 2018*. 
+
+Yang et al. [Commonsense Justification for Action Explanation](https://www.aclweb.org/anthology/D18-1283/). In *EMNLP 2018*.
+
+Kim et al. [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279). In *ICML 2018*.
 
 ### Textual explanation generation 
 
