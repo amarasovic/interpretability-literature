@@ -41,8 +41,6 @@ Lipton. [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
 
 * The umbrella term "Explainable AI" encompasses at least three distinct notions : **transparency**, **explainability**, and **interpretability**.
 
-Goodman and Flaxman. [European Union regulations on algorithmic decision-making and a "right to explanation"](https://arxiv.org/abs/1606.08813). In *WHI 2016*.
-
 ## Benefits of learning with explanations 
 
 Strout et al. [Do Human Rationales Improve Machine Explanations?](https://www.aclweb.org/anthology/W19-4807/). In *ACL 2019*. 
@@ -172,3 +170,5 @@ Park et al. [Multimodal Explanations: Justifying Decisions and Pointing to the E
 Wachter et al. [Why a Right to Explanation of Automated Decision-Making Does Not Exist in the General Data Protection Regulation](https://academic.oup.com/idpl/article/7/2/76/3860948). In International Data Privacy Law 2017.
 
 Edwards and Veale. [Slave to the Algorithm? Why a 'Right to an Explanation' Is Probably Not the Remedy You Are Looking For](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2972855). In 16 Duke Law & Technology Review 18 (2017).
+
+Goodman and Flaxman. [European Union regulations on algorithmic decision-making and a "right to explanation"](https://arxiv.org/abs/1606.08813). In *WHI 2016*.
