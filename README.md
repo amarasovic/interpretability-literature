@@ -77,6 +77,14 @@ Aïvodji et al. [Fairwashing: the risk of rationalization](https://arxiv.org/abs
 * **Fairwashing** is prooting the false perception that a machine learning model respects some ethical values. 
 * This paper shows that tt is possible to forge a fairer explanation from a truly unfair black box trough a process that the authors coin as **rationalization**.
 
+Ustun et al. [Actionable Recourse in Linear Classification](http://www.berkustun.com/docs/actionable_recourse.pdf). IN **FAT 2019*.
+
+* In this paper, the authors introduce **recourse**--the ability of a person to change the decision of the model through actionable input variables such as income vs. gender, age, or marital status.
+* Transparency and explainability do not guarantee recourse.
+* Interesting broader discussion:
+    * Recourse vs. strategic manipulation.
+    * Policy implications. 
+
 Adebayo et al. [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292). In *NeurIPS 2018*.
 
 Chandrasekaran et al. [Do explanations make VQA models more predictable to a human?](https://www.aclweb.org/anthology/D18-1128/). In *EMNLP 2018*.
@@ -143,10 +151,3 @@ Park et al. [Multimodal Explanations: Justifying Decisions and Pointing to the E
 ## Tutorials 
 
 [Introduction to Interpretable Machine Learning by Been Kim @ MLSS 2018](https://beenkim.github.io/slides/DLSS2018Vector_Been.pdf)
-
-## Other 
-
-Ustun et al. [Actionable Recourse in Linear Classification](https://arxiv.org/abs/1809.06514). IN **FAT 2019*.
-
-* In this paper, the authors introduce **recourse**--the ability of a person to change the decision of the model through actionable input variables such as income vs. gender, age, or marital status.
-* Transparency and explainability do not guarantee recourse.
