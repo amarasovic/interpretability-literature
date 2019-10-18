@@ -144,3 +144,6 @@ Park et al. [Multimodal Explanations: Justifying Decisions and Pointing to the E
 
 [Introduction to Interpretable Machine Learning by Been Kim @ MLSS 2018](https://beenkim.github.io/slides/DLSS2018Vector_Been.pdf)
 
+## Other 
+
+Ustun et al. [Actionable Recourse in Linear Classification](https://arxiv.org/abs/1809.06514). IN **FAT 2019*.
