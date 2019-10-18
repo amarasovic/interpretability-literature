@@ -99,12 +99,6 @@ Chandrasekaran et al. [Do explanations make VQA models more predictable to a hum
 
 Jiang et al. [To Trust Or Not To Trust A Classifier](https://arxiv.org/abs/1805.11783). In *NeurIPS 2018*.
 
-Kindermans et al. [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867). In *ICLR 2018*.
- 
- > Evaluating the reliability of saliency methods is complicated by a lack of ground truth, as ground truth would depend upon full transparency into how a model arrives at a decision---the very problem we are trying to solve for in the first place.
- 
- *  A new evaluation criterion, **input invariance**, requires that the saliency method mirrors the sensitivity of model with respect to transformations of the input. Input transformations that do not change network's prediction, should not change the attribution either. 
-
 Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https://www.aclweb.org/anthology/D18-1407/). In *EMNLP 2018*.
 
  * Input reduction iteratively removes the least important word from the input.    
@@ -115,6 +109,12 @@ Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https:
   * Important characterization of explanation:   
   > A good explanation method should not reflect what humans attend to, but what task methods attend to.  
   * Interpretability differs between *small contexts* NLP tasks and *large context* tasks. 
+  
+ Kindermans et al. [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867). arxiv 2017.
+ 
+ > Evaluating the reliability of saliency methods is complicated by a lack of ground truth, as ground truth would depend upon full transparency into how a model arrives at a decision---the very problem we are trying to solve for in the first place.
+ 
+ *  A new evaluation criterion, **input invariance**, requires that the saliency method mirrors the sensitivity of model with respect to transformations of the input. Input transformations that do not change network's prediction, should not change the attribution either. 
   
  Sundararajan et al. [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365). In *ICML 2017*.  
  
