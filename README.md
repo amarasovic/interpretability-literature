@@ -31,7 +31,7 @@ Tomsett et al. [Interpretable to Whom? A Role-based Model for Analyzing Interpre
 
 Poursabzi-Sangdeh et al. [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810). arxiv 2018. 
 
-* This paper found no significant difference in multiple measures of trust between when manipulating interpretability.
+* This paper found no significant difference in multiple measures of trust when manipulating interpretability.
 * Increased transparency hampered people's ability to detect when a model had made a sizeable mistake. 
 > Building interpretable machine learning models is not a purely computational model [...] what is or is not "interpretable" is defined by people, not algorithms.
 
