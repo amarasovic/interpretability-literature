@@ -147,3 +147,6 @@ Park et al. [Multimodal Explanations: Justifying Decisions and Pointing to the E
 ## Other 
 
 Ustun et al. [Actionable Recourse in Linear Classification](https://arxiv.org/abs/1809.06514). IN **FAT 2019*.
+
+* In this paper, the authors introduce **recourse**--the ability of a person to change the decision of the model through actionable input variables such as income vs. gender, age, or marital status.
+* Transparency and explainability do not guarantee recourse.
