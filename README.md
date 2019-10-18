@@ -81,7 +81,7 @@ Jain and Wallace. [Attention is not Explanation](https://www.aclweb.org/antholog
 Aïvodji et al. [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749). In *ICML 2019*. 
 
 * **Fairwashing** is prooting the false perception that a machine learning model respects some ethical values. 
-* This paper shows that tt is possible to forge a fairer explanation from a truly unfair black box trough a process that the authors coin as **rationalization**.
+* This paper shows that it is possible to forge a fairer explanation from a truly unfair black box trough a process that the authors coin as **rationalization**.
 
 Ustun et al. [Actionable Recourse in Linear Classification](http://www.berkustun.com/docs/actionable_recourse.pdf). IN **FAT 2019*.
 
