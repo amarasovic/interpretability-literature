@@ -128,6 +128,8 @@ Feng et al. [Pathologies of Neural Models Make Interpretations Difficult](https:
 
 ## Self-explanatory models / Model-based intepretability 
 
+Bastings et al. [Interpretable Neural Predictions with Differentiable Binary Variables](https://www.aclweb.org/anthology/P19-1284/). In *ACL 2019*. 
+
 Vedantam et al. [Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering](https://arxiv.org/abs/1902.07864). In *ICML 2019*.
 
 Alvarez-Melis and Jaakkola. [Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/abs/1806.07538). In *NeurIPS 2018*. 
@@ -172,3 +174,7 @@ Wachter et al. [Why a Right to Explanation of Automated Decision-Making Does Not
 Edwards and Veale. [Slave to the Algorithm? Why a 'Right to an Explanation' Is Probably Not the Remedy You Are Looking For](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2972855). In 16 Duke Law & Technology Review 18 (2017).
 
 Goodman and Flaxman. [European Union regulations on algorithmic decision-making and a "right to explanation"](https://arxiv.org/abs/1606.08813). In *WHI 2016*.
+
+## Applications
+
+Bellini et al. [Knowledge-aware Autoencoders for Explainable Recommender Sytems Knowledge-aware Autoencoders for Explainable Recommender Sytems](https://arxiv.org/abs/1807.06300). In ACM Workshop on Deep Learning for Recommender Systems.
