@@ -177,4 +177,4 @@ Goodman and Flaxman. [European Union regulations on algorithmic decision-making 
 
 ## Applications
 
-Bellini et al. [Knowledge-aware Autoencoders for Explainable Recommender Sytems Knowledge-aware Autoencoders for Explainable Recommender Sytems](https://arxiv.org/abs/1807.06300). In ACM Workshop on Deep Learning for Recommender Systems.
+Bellini et al. [Knowledge-aware Autoencoders for Explainable Recommender Sytems Knowledge-aware Autoencoders for Explainable Recommender Sytems](https://arxiv.org/abs/1807.06300). In ACM Workshop on Deep Learning for Recommender Systems 2018.
