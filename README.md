@@ -9,14 +9,18 @@ Miller. [Explanation in Artificial Intelligence: Insights from the Social Scienc
 * Section 2.6 in Molner discusses Miller's work.
 * Very related; Mittelstadt et al. [Explaining Explanations in AI](https://arxiv.org/abs/1811.01439). In **FAT 2019*.
 
-
 Murdoch et al. [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/abs/1901.04592). arxiv 2019. 
 
 Guidotti et al. [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/abs/1802.01933). arxiv 2018.
 
+Ras et al. [Explanation Methods in Deep Learning: Users, Values, Concerns and Challenges
+](https://arxiv.org/abs/1803.07517). arxiv 2018.
+
 ## Perspectives 
 
 Kleinberg and Mullainathan. [Simplicity Creates Inequity: Implications for Fairness, Stereotypes, and Interpretability](https://arxiv.org/abs/1809.04578). [video](https://www.youtube.com/watch?v=LsracoT6zvI). In *ACM EC 2019*. 
+
+Ribera and Lapedriza. [Can we do better explanations? A proposal of User-Centered Explainable AI]. In **FAT 2019*.
 
 Lage et al. [An Evaluation of the Human-Interpretability of Explanation](https://arxiv.org/abs/1902.00006). arxiv 2019.
 
@@ -35,7 +39,11 @@ Poursabzi-Sangdeh et al. [Manipulating and Measuring Model Interpretability](htt
 * Increased transparency hampered people's ability to detect when a model had made a sizeable mistake. 
 > Building interpretable machine learning models is not a purely computational model [...] what is or is not "interpretable" is defined by people, not algorithms.
 
+Preece et al. [Stakeholders in Explainable AI](https://arxiv.org/abs/1810.00184). In AAAI 2018 Fall Symposium Series.
+
 Doshi-Velez and Kim. [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608). arxiv 2017. 
+
+Weller. [Transparency: Motivations and Challenges](https://arxiv.org/abs/1708.01870). In *WHI 2017*.
 
 Lipton. [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490). In *WHI 2016*.
 
@@ -59,10 +67,12 @@ Heo et al. [Fooling Neural Network Interpretations via Adversarial Model Manipul
 
 * Saliency interpretation methods can be fooled via adversarial model manipulation---a model finetuning step that aims to radically alter the explanation without hurting the accuracy of the original model. 
 
-* Similar work: 
+* More adversarial  examples:: 
 
     * Zheng et al. [Analyzing the Interpretability Robustness of Self-Explaining Models](https://arxiv.org/abs/1905.12429). In ICML 2019 Security and Privacy of Machine Learning Workshop. 
-
+    
+    * Ghorbani et al. [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547). In *AAAI 2019*.
+    
 Wiegreffe and Pinter. [Attention is not not Explanation](https://arxiv.org/abs/1908.04626). In *EMNLP 2019*.
 
 * Deteching the attention scores obtained by parts of the model degredes the model itself. A reliable adversary must also be trained. 
@@ -78,7 +88,11 @@ Jain and Wallace. [Attention is not Explanation](https://www.aclweb.org/antholog
 * Attention is not strongly correlated with other, well-grounded feature-importance metrics.  
 * Alternative distributions exist for which the model outputs near-identical prediction scores. 
 
-Aïvodji et al. [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749). In *ICML 2019*. 
+Laugel et al. [Issues with post-hoc counterfactual explanations: a discussion](https://arxiv.org/abs/1906.04774). In *HILL 2019*.
+
+Laugel et al. [The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations](https://arxiv.org/abs/1907.09294). In *IJCAI 2019*.
+
+Aïvodji et al. [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749). In 2019 ICML Workshop on Human in the Loop Learning. 
 
 * **Fairwashing** is prooting the false perception that a machine learning model respects some ethical values. 
 * This paper shows that it is possible to forge a fairer explanation from a truly unfair black box trough a process that the authors coin as **rationalization**.
@@ -90,6 +104,9 @@ Ustun et al. [Actionable Recourse in Linear Classification](http://www.berkustun
 * Interesting broader discussion:
     * Recourse vs. strategic manipulation.
     * Policy implications. 
+* Related work:
+    * Karimi et al. [Model-Agnostic Counterfactual Explanations for Consequential Decisions]. arxiv 2019.
+    * Tolomei et al. [Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking](https://arxiv.org/abs/1706.06691). In *KDD 2017*.
 
 Adebayo et al. [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292). In *NeurIPS 2018*.
 
@@ -168,6 +185,8 @@ Park et al. [Multimodal Explanations: Justifying Decisions and Pointing to the E
 ## GDPR 
 
 [How will the GDPR impact machine learning? by Andrew Burt](https://www.oreilly.com/radar/how-will-the-gdpr-impact-machine-learning/)
+
+Wachter et al. [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399). In Harvard Journal of Law & Technology 2018.
 
 Wachter et al. [Why a Right to Explanation of Automated Decision-Making Does Not Exist in the General Data Protection Regulation](https://academic.oup.com/idpl/article/7/2/76/3860948). In International Data Privacy Law 2017.
 
