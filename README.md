@@ -11,6 +11,8 @@ Miller. [Explanation in Artificial Intelligence: Insights from the Social Scienc
 
 Murdoch et al. [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/abs/1901.04592). arxiv 2019. 
 
+Barredo Arrieta et al. [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](https://arxiv.org/abs/1910.10045). arxiv 2019.
+
 Guidotti et al. [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/abs/1802.01933). arxiv 2018.
 
 Ras et al. [Explanation Methods in Deep Learning: Users, Values, Concerns and Challenges
