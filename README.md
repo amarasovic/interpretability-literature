@@ -45,6 +45,8 @@ Preece et al. [Stakeholders in Explainable AI](https://arxiv.org/abs/1810.00184)
 
 Doshi-Velez and Kim. [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608). arxiv 2017. 
 
+Dhurandhar et al. [A Formal Framework to Characterize Interpretability of Procedures](https://arxiv.org/abs/1707.03886). In *WHI 2017*.
+
 Weller. [Transparency: Motivations and Challenges](https://arxiv.org/abs/1708.01870). In *WHI 2017*.
 
 Lipton. [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490). In *WHI 2016*.
