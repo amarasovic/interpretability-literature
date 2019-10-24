@@ -51,6 +51,16 @@ Lipton. [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
 
 * The umbrella term "Explainable AI" encompasses at least three distinct notions : **transparency**, **explainability**, and **interpretability**.
 
+## Blogs
+
+[The What of Explainable AI](https://www.elementai.com/news/2019/the-what-of-explainable-ai)
+
+[The How of Explainable AI: Pre-modelling Explainability](https://towardsdatascience.com/the-how-of-explainable-ai-pre-modelling-explainability-699150495fe4)
+
+[The How of Explainable AI: Explainable Modelling](https://towardsdatascience.com/the-how-of-explainable-ai-explainable-modelling-55c8c43d7bed)
+
+[The How of Explainable AI: Post-modelling Explainability](https://towardsdatascience.com/the-how-of-explainable-ai-post-modelling-explainability-8b4cbc7adf5f)
+
 ## Benefits of learning with explanations 
 
 Strout et al. [Do Human Rationales Improve Machine Explanations?](https://www.aclweb.org/anthology/W19-4807/). In *ACL 2019*. 
@@ -199,10 +209,3 @@ Goodman and Flaxman. [European Union regulations on algorithmic decision-making 
 ## Applications
 
 Bellini et al. [Knowledge-aware Autoencoders for Explainable Recommender Sytems](https://arxiv.org/abs/1807.06300). In ACM Workshop on Deep Learning for Recommender Systems 2018.
-
-## Blogs
-
-[The What of Explainable AI](https://www.elementai.com/news/2019/the-what-of-explainable-ai)
-[The How of Explainable AI: Pre-modelling Explainability](https://towardsdatascience.com/the-how-of-explainable-ai-pre-modelling-explainability-699150495fe4)
-[The How of Explainable AI: Explainable Modelling](https://towardsdatascience.com/the-how-of-explainable-ai-explainable-modelling-55c8c43d7bed)
-[The How of Explainable AI: Post-modelling Explainability](https://towardsdatascience.com/the-how-of-explainable-ai-post-modelling-explainability-8b4cbc7adf5f)
