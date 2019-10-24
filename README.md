@@ -18,11 +18,13 @@ Guidotti et al. [A Survey Of Methods For Explaining Black Box Models](https://ar
 Ras et al. [Explanation Methods in Deep Learning: Users, Values, Concerns and Challenges
 ](https://arxiv.org/abs/1803.07517). arxiv 2018.
 
+Gilpin et al. [Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/abs/1806.00069). In *DSAA 2018*.
+
 ## Perspectives 
 
 Kleinberg and Mullainathan. [Simplicity Creates Inequity: Implications for Fairness, Stereotypes, and Interpretability](https://arxiv.org/abs/1809.04578). [video](https://www.youtube.com/watch?v=LsracoT6zvI). In *ACM EC 2019*. 
 
-Ribera and Lapedriza. [Can we do better explanations? A proposal of User-Centered Explainable AI]. In **FAT 2019*.
+Ribera and Lapedriza. [Can we do better explanations? A proposal of User-Centered Explainable AI](http://ceur-ws.org/Vol-2327/IUI19WS-ExSS2019-12.pdf). In **FAT 2019*.
 
 Lage et al. [An Evaluation of the Human-Interpretability of Explanation](https://arxiv.org/abs/1902.00006). arxiv 2019.
 
@@ -46,6 +48,10 @@ Preece et al. [Stakeholders in Explainable AI](https://arxiv.org/abs/1810.00184)
 Doshi-Velez and Kim. [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608). arxiv 2017. 
 
 Dhurandhar et al. [A Formal Framework to Characterize Interpretability of Procedures](https://arxiv.org/abs/1707.03886). In *WHI 2017*.
+
+Herman. [The Promise and Peril of Human Evaluation for Model Interpretability](https://arxiv.org/abs/1711.07414). In NeurIPS 2017 Symposium on Interpretable Machine Learning.
+
+* They propose a distinction between descriptive and persuasive explanations. 
 
 Weller. [Transparency: Motivations and Challenges](https://arxiv.org/abs/1708.01870). In *WHI 2017*.
 
@@ -81,7 +87,9 @@ Heo et al. [Fooling Neural Network Interpretations via Adversarial Model Manipul
 
 * Saliency interpretation methods can be fooled via adversarial model manipulation---a model finetuning step that aims to radically alter the explanation without hurting the accuracy of the original model. 
 
-* More adversarial  examples:: 
+* More adversarial  examples:
+
+    * Zhang et al. [Interpretable Deep Learning under Fire](https://arxiv.org/abs/1812.00891). In USENIX Security Symposium 2020.
 
     * Zheng et al. [Analyzing the Interpretability Robustness of Self-Explaining Models](https://arxiv.org/abs/1905.12429). In ICML 2019 Security and Privacy of Machine Learning Workshop. 
     
