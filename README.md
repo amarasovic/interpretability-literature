@@ -114,7 +114,7 @@ Laugel et al. [Issues with post-hoc counterfactual explanations: a discussion](h
 
 Laugel et al. [The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations](https://arxiv.org/abs/1907.09294). In *IJCAI 2019*.
 
-Aïvodji et al. [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749). In 2019 ICML Workshop on Human in the Loop Learning. 
+Aïvodji et al. [Fairwashing: the risk of rationalization](https://arxiv.org/abs/1901.09749). In *ICML 2019*.
 
 * **Fairwashing** is prooting the false perception that a machine learning model respects some ethical values. 
 * This paper shows that it is possible to forge a fairer explanation from a truly unfair black box trough a process that the authors coin as **rationalization**.
