@@ -47,6 +47,9 @@ Preece et al. [Stakeholders in Explainable AI](https://arxiv.org/abs/1810.00184)
 
 Doshi-Velez and Kim. [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608). arxiv 2017. 
 
+de Graaf and Malle. [How People Explain Action (and Autonomous Intelligent Systems Should Too)](https://aaai.org/ocs/index.php/FSS/FSS17/paper/view/16009). In AAAI Fall Symposium Series 2017.
+
+
 Dhurandhar et al. [A Formal Framework to Characterize Interpretability of Procedures](https://arxiv.org/abs/1707.03886). In *WHI 2017*.
 
 Herman. [The Promise and Peril of Human Evaluation for Model Interpretability](https://arxiv.org/abs/1711.07414). In NeurIPS 2017 Symposium on Interpretable Machine Learning.
