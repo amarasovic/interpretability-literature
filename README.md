@@ -82,7 +82,7 @@ Ray et al. [Can You Explain That? Lucid Explanations Help Human-AI Collaborative
 
 Selvaraju et al. [Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded](https://arxiv.org/pdf/1902.03751.pdf). In *ICCV 2019*.
 
-## Evaluation critera and pitfalls of explanatory methods
+## Evaluation criteria and pitfalls of explanatory methods
 
 Camburu et al. [Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations](https://arxiv.org/abs/1910.03065). In NeurIPS 2019 Workshop on Safety and Robustness in Decision Making.
 
